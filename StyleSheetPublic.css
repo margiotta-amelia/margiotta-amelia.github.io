@@ -1,0 +1,75 @@
+﻿body {
+    background-color: white;
+    font-family: serif;
+    margin: 5px;
+    padding: 5px;
+    color: black;
+}
+
+img{
+    width: 210px;
+    height: 210px;
+    margin: 5px;
+}
+#left {
+    background-color: lightpink;
+    height: 220vh;
+    float: left;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+li a {
+    background-color: white;
+    padding: 1em 1.5em;
+    display: block;
+    margin: 5px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: lightpink;
+}
+#bio {
+   
+    float: right;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+#Main1{
+    margin-left: 250px;
+    padding: 0;
+}
+#right {
+    background-color: lightblue;
+    height: 220vh;
+    float: right;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#ERD {
+    width: 420px;
+    height: 400px;
+    margin: 5px;
+}
+#databases {
+    float: right;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+#header{
+    text-align: center;
+}
+
